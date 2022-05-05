@@ -1,0 +1,15 @@
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\AppDeCadastroDeSéries_DIO.csproj.AssemblyReference.cache
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\AppDeCadastroDeSéries_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\AppDeCadastroDeSéries_DIO.AssemblyInfoInputs.cache
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\AppDeCadastroDeSéries_DIO.AssemblyInfo.cs
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\AppDeCadastroDeSéries_DIO.csproj.CoreCompileInputs.cache
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\bin\Debug\net6.0\AppDeCadastroDeSéries_DIO.exe
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\bin\Debug\net6.0\AppDeCadastroDeSéries_DIO.deps.json
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\bin\Debug\net6.0\AppDeCadastroDeSéries_DIO.runtimeconfig.json
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\bin\Debug\net6.0\AppDeCadastroDeSéries_DIO.dll
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\bin\Debug\net6.0\AppDeCadastroDeSéries_DIO.pdb
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\AppDeCadastroDeSéries_DIO.dll
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\refint\AppDeCadastroDeSéries_DIO.dll
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\AppDeCadastroDeSéries_DIO.pdb
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\AppDeCadastroDeSéries_DIO.genruntimeconfig.cache
+C:\Users\dowglas.santana\Documents\work\dotNet\AppDeCadastroDeSéries_DIO\AppDeCadastroDeSéries_DIO\obj\Debug\net6.0\ref\AppDeCadastroDeSéries_DIO.dll
